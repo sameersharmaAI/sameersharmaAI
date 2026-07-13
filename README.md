@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 Hey, I'm Sameer Sharma <br>AI & Data Engineer building LLM-powered applications, reasoning systems, and scalable ML workflows. I'm passionate about building intelligent systems that combine machine learning, large language models, and scalable data pipelines to solve real-world problems.<br>My work focuses on:<br>* LLM-powered applications<br>* Retrieval-Augmented Generation (RAG)<br>* Prompt engineering & evaluation workflows<br>* NLP & transformer architectures<br>* AI automation pipelines<br>* Cloud-based ML deployment<br>I enjoy transforming research/novel concepts into production-ready applications with measurable business impact.<br>
 
 
